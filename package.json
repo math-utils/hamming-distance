@@ -7,7 +7,7 @@
   "repository": "math-utils/hamming-distance",
   "dependencies": {},
   "devDependencies": {
-    "mocha": "2",
+    "mocha": "2.4.1",
     "istanbul": "0"
   },
   "scripts": {
