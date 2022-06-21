@@ -19,5 +19,5 @@
     "hamming",
     "distance"
   ],
-  "files": "index.js"
+  "files": ["index.js"]
 }
